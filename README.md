@@ -14,4 +14,6 @@ The main part of the program starts the Auto Clicker thread, and then it enters 
 
 This code provides a basic Auto Clicker functionality with a user-friendly interface and the ability to start and stop clicking using the '-' key
 
-see in picture AutoClicker.JPG
+see in picture
+
+![AutoClicker](https://github.com/aledog007/AutoClicker-in-python/assets/141751722/22e262e8-4ffb-4a71-acb9-54c5ce34e636)
